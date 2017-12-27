@@ -1,0 +1,9 @@
+{
+  "annotation": {
+    "build_vars": {
+      "target": "app_build",
+      "jvm_heap_size": "512m"
+    },
+    "build_cmd": "bash build.sh"
+  }
+}
